@@ -39,7 +39,8 @@ Every document here was produced under live operating conditions — not retrosp
 |-------|-------------|--------|
 | [NITE-PEI Integrated Thesis](thesis/NITE_PEI_Integrated_Thesis.md) | Bayesian thesis probability updating from live news events. The crown jewel. | Bayesian Inference · Kelly Sizing · Event Classification |
 | [V3 Architecture & Software Write-Up](thesis/V3_Architecture_Software_Writeup.md) | Complete technical specification of the 65-step pipeline | Pipeline Architecture · 9-Lens Intelligence · Governance |
-| [**V3 Upgrade Path Thesis ← NEW**](thesis/V3_Upgrade_Path_Thesis_20260622.md) | AI4Finance comparison + 4 upgrade work orders for week of 2026-06-29 | Backtesting · LoRA Fine-Tuning · RAG · DRL Sizing |
+| [V3 Upgrade Path Thesis](thesis/V3_Upgrade_Path_Thesis_20260622.md) | AI4Finance comparison + approved upgrade work orders (Walk-Forward Backtesting + DRL Kelly Optimizer) for week of 2026-06-29 | Backtesting · DRL Sizing |
+| [**PhD Thesis: LLM Temporal Blindness ← NEW**](thesis/LLM_Temporal_Blindness_PhD_Thesis_20260622.md) | Formal academic thesis on why frontier LLMs cannot reason causally about financial time series — with 24 citations. A warning to developers. | LLM Epistemology · Temporal Blindness · Human Sovereignty |
 | [V2 Self-Learning Institutional Intelligence Thesis](thesis/V2_Self_Learning_Institutional_Intelligence_Thesis.md) | The thesis that transformed a dashboard into an intelligence system | Causal Intelligence · Institutional Cognition |
 | [8-Lens Qualitative-Quantitative Breakthrough Thesis](thesis/8_Lens_Qualitative_Quantitative_Breakthrough_Thesis.md) | Converting qualitative judgment into quantitative decision support | Multi-Lens Scoring · Stock Interrogation Framework |
 
