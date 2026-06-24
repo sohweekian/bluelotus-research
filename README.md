@@ -29,6 +29,7 @@
 | [**Download engine**](https://github.com/sohweekian/bluelotus-engine-docs/blob/main/DOWNLOAD.md) | How to install v3.0.0 |
 | [**What is BlueLotus?**](https://github.com/sohweekian/bluelotus-engine-docs/blob/main/WHAT_IS_BLUELOTUS.md) | Software function explained |
 | [**Who is it for?**](https://github.com/sohweekian/bluelotus-engine-docs/blob/main/WHO_IS_IT_FOR.md) | Audience guide |
+| [**BGTM — Nash tool pack**](https://github.com/sohweekian/bluelotus-engine-docs/blob/main/BGTM.md) | Game theory · QRE · Geo-LR bridge (engine docs) |
 
 **Engine status:** Frozen at **v3.0.0**. Work orders and private production software remain proprietary.
 
@@ -54,6 +55,7 @@ Every document here was produced under live operating conditions — not retrosp
 | Paper | Description | Domain |
 |-------|-------------|--------|
 | [NITE-PEI Integrated Thesis](thesis/NITE_PEI_Integrated_Thesis.md) | Bayesian thesis probability updating from live news events. The crown jewel. | Bayesian Inference · Kelly Sizing · Event Classification |
+| [**BGTM-V1 PhD Thesis — Nash Equilibrium**](BGTM_V1_PhD_Thesis_GameTheory_NashEquilibrium_2026.md) | N-player Nash · QRE · Correlated Equilibrium · Geo-LR bridge into NITE-PEI. MATLAB oracle 13/13. | Game Theory · Geopolitical Risk · Bayesian Updating |
 | [**Deterministic Transition (NEW)**](DETERMINISTIC_TRANSITION.md) | Why agents were removed from production; Zone A clerk architecture | Governance · Field Evaluation |
 | [V3 Architecture & Software Write-Up](thesis/V3_Architecture_Software_Writeup.md) | Technical specification of the intelligence pipeline | Pipeline Architecture · Governance |
 | [V3 Upgrade Path Thesis](thesis/V3_Upgrade_Path_Thesis_20260622.md) | AI4Finance comparison + approved upgrade work orders (Walk-Forward Backtesting + DRL Kelly Optimizer) for week of 2026-06-29 | Backtesting · DRL Sizing |
