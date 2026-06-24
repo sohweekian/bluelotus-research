@@ -20,7 +20,19 @@
 
 ---
 
-## What Is This Repository?
+## Public release (June 2026)
+
+| Document | Description |
+|----------|-------------|
+| [**PUBLIC_RELEASE_NOTICE**](PUBLIC_RELEASE_NOTICE.md) | What is public vs proprietary; frozen engine; thesis-only updates |
+| [**DETERMINISTIC_TRANSITION**](DETERMINISTIC_TRANSITION.md) | Why agents were removed; Zone A clerk architecture |
+| [**Download engine**](https://github.com/sohweekian/bluelotus-engine-docs/blob/main/DOWNLOAD.md) | How to install v3.0.0 |
+| [**What is BlueLotus?**](https://github.com/sohweekian/bluelotus-engine-docs/blob/main/WHAT_IS_BLUELOTUS.md) | Software function explained |
+| [**Who is it for?**](https://github.com/sohweekian/bluelotus-engine-docs/blob/main/WHO_IS_IT_FOR.md) | Audience guide |
+
+**Engine status:** Frozen at **v3.0.0**. Work orders and private production software remain proprietary.
+
+---
 
 This is the **public academic record** of BlueLotus V3 — a deterministic, institutional-grade investment intelligence system built by a single CIO, with zero Bloomberg dependency and zero black-box components.
 
