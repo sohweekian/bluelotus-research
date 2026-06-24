@@ -22,7 +22,11 @@
 
 ## What Is This Repository?
 
-This is the **public academic record** of BlueLotus V3 — a deterministic, institutional-grade investment intelligence system built by a single CIO, running locally on a Windows machine with a locally-hosted Qwen3:4B AI, with zero Bloomberg dependency and zero black-box components.
+This is the **public academic record** of BlueLotus V3 — a deterministic, institutional-grade investment intelligence system built by a single CIO, with zero Bloomberg dependency and zero black-box components.
+
+**June 2026 update:** Production intelligence is **Zone A deterministic clerk** — no LLM agent council in the active pipeline. See [**DETERMINISTIC_TRANSITION.md**](DETERMINISTIC_TRANSITION.md).
+
+**Public research software:** [`pip install bluelotus-engine`](https://github.com/sohweekian/bluelotus-engine) · narrative: [bluelotus-engine-docs](https://github.com/sohweekian/bluelotus-engine-docs)
 
 Every document here was produced under live operating conditions — not retrospective theory, but **doctrines written the day the failure happened, theses specified before the code was built, and audit reports produced immediately after each architectural upgrade.**
 
@@ -38,7 +42,8 @@ Every document here was produced under live operating conditions — not retrosp
 | Paper | Description | Domain |
 |-------|-------------|--------|
 | [NITE-PEI Integrated Thesis](thesis/NITE_PEI_Integrated_Thesis.md) | Bayesian thesis probability updating from live news events. The crown jewel. | Bayesian Inference · Kelly Sizing · Event Classification |
-| [V3 Architecture & Software Write-Up](thesis/V3_Architecture_Software_Writeup.md) | Complete technical specification of the 65-step pipeline | Pipeline Architecture · 9-Lens Intelligence · Governance |
+| [**Deterministic Transition (NEW)**](DETERMINISTIC_TRANSITION.md) | Why agents were removed from production; Zone A clerk architecture | Governance · Field Evaluation |
+| [V3 Architecture & Software Write-Up](thesis/V3_Architecture_Software_Writeup.md) | Technical specification of the intelligence pipeline | Pipeline Architecture · Governance |
 | [V3 Upgrade Path Thesis](thesis/V3_Upgrade_Path_Thesis_20260622.md) | AI4Finance comparison + approved upgrade work orders (Walk-Forward Backtesting + DRL Kelly Optimizer) for week of 2026-06-29 | Backtesting · DRL Sizing |
 | [**PhD Thesis: LLM Temporal Blindness ← NEW**](thesis/LLM_Temporal_Blindness_PhD_Thesis_20260622.md) | Formal academic thesis on why frontier LLMs cannot reason causally about financial time series — with 24 citations. A warning to developers. | LLM Epistemology · Temporal Blindness · Human Sovereignty |
 | [V2 Self-Learning Institutional Intelligence Thesis](thesis/V2_Self_Learning_Institutional_Intelligence_Thesis.md) | The thesis that transformed a dashboard into an intelligence system | Causal Intelligence · Institutional Cognition |
@@ -116,8 +121,8 @@ PIPELINE START  ·  Every 39 Minutes  ·  65 Deterministic Steps
 ├── LAYER 5  ─  NITE-PEI Engine       (Bayesian · CKRI · Kelly · Advisory)
 └── LAYER 6  ─  Publish               (GitHub Pages · Chief Strategist · JSON)
 
-AI Engine:  Qwen3:4B · RTX 5060 Ti · 16GB VRAM · 9 Agents · Local · No API cost
-Tests:      315 / 315 passing
+AI Engine:  Deterministic clerk (Zone A) · NITE-PEI · SLICDO · Legacy Qwen council quarantined
+Tests:      509 pytest · regression audit 10/10
 Doctrines:  7 (BLV3-DOCTRINE-001 through 007)
 ```
 
